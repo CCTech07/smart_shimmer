@@ -2,6 +2,7 @@ name: smart_shimmer
 description: "A Flutter package that simplifies loading states by applying a shimmer effect directly to your existing UI layout, eliminating the need for duplicate placeholders."
 version: 0.0.1
 homepage: https://github.com/CCTech07/smart_shimmer.git
+license: MIT
 
 environment:
   sdk: ^3.7.0
